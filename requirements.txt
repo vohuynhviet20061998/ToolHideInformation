@@ -1,0 +1,5 @@
+lxml
+pymupdf          # đã kèm sẵn OCR Tesseract (cần thư mục tessdata)
+cryptography
+pywin32        # chỉ để đọc .doc/.xls cũ (cần Microsoft Word/Excel)
+tkinterdnd2    # tùy chọn: kéo thả file vào cửa sổ

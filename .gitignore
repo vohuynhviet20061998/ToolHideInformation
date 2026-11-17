@@ -1,0 +1,6 @@
+# KHONG dua vault (chua thong tin that) hay file da xu ly len git
+pii_vault*.json
+*.masked.*
+*.restored.*
+__pycache__/
+*.pyc
